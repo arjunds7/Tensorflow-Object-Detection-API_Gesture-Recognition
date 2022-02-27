@@ -7,3 +7,6 @@ Here, 5 Hand Gesture are classified.
 
 Please read the instructions file first.
 Run the main file and create your own dataset and enjoy the object detection.
+
+
+![result](https://user-images.githubusercontent.com/81910100/155905065-3815b726-fdff-4a5b-bb7b-53f1146df8f0.jpg)
